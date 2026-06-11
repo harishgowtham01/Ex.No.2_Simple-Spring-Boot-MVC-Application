@@ -1,8 +1,8 @@
 # Ex No: 02 – Simple Spring Boot MVC Application
 
-### Name: Harish Gowtham E
+### Name: HARISH GOWTHAM E
 ### Register Number: 2305002009
-
+### Reg No: 2305002001
 
 ## AIM
 
